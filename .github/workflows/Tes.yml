@@ -373,11 +373,11 @@ jobs:
             ${{ steps.changelog.outputs.CHANGELOG }}
             
             See [here](https://github.com/frizkyiman/friWrt-MyWrtBuilder?tab=readme-ov-file#firmware-details) for more detail feature and other information.
-            - Default IP: 192.168.2.1
+            - Default IP: 192.168.1.1
             - Default username: root
-            - Default password: sijitekowolu
-            - Default WIFI name: NOKIA-N73 | friWrt_5g (if device supported)
-            - Default WIFI password: sijitekowolu (if device supported)
+            - Default password: CelengWRT
+            - Default WIFI name: CelengWRT | CelengWRT (if device supported)
+            - Default WIFI password: CelengWRT (if device supported)
             
             ### Install to EMMC
             - Login to OpenWrt → System → Amlogic Service → Install OpenWrt
